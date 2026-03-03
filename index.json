@@ -12,8 +12,8 @@
       "type": "novel",
       "locale": "vi_VN",
       "source": "https://tutien.pro",
-      "icon": "https://tutien.pro/favicon.ico",
-      "description": "Doc truyen tu tutien.pro"
+      "icon": "https://raw.githubusercontent.com/xuantruongdang295-lab/vbook/main/plugin.png",
+      "description": "Đọc Truyện trên trang tutien.pro"
     }
   ]
 }
