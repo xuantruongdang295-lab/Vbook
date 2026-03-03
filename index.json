@@ -5,15 +5,15 @@
   },
   "data": [
     {
-      "name": "Tu Tiên",
+      "name": "Tu Tien Pro",
       "author": "vBook",
-      "path": "https://raw.githubusercontent.com/xuantruongdang295-lab/vbook-extensions/master/tutien/plugin.zip",
+      "path": "https://raw.githubusercontent.com/xuantruongdang295-lab/Vbook/main/plugin.js",
       "version": 1,
-      "type": "novel",
-      "locale": "vi_VN",
       "source": "https://tutien.pro",
-      "icon": "https://raw.githubusercontent.com/xuantruongdang295-lab/vbook-extensions/master/tutien/icon.png",
-      "description": "Đọc Truyện trên trang tutien.pro"
+      "icon": "https://tutien.pro/favicon.ico",
+      "description": "Đọc truyện trên trang tutien.pro",
+      "type": "novel",
+      "locale": "vi_VN"
     }
   ]
 }
