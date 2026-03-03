@@ -1,18 +1,18 @@
 {
   "metadata": {
-    "author": "TruongDang",
+    "author": "vBook",
     "description": "Plugin tutien"
   },
   "data": [
     {
       "name": "Tu Tien Pro",
-      "author": "TruongDang",
-      "path": "https://raw.githubusercontent.com/xuantruongdang295-lab/vbook/main/plugin.js",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/xuantruongdang295-lab/vbook-extensions/master/tutien/plugin.js",
       "version": 1,
       "type": "novel",
       "locale": "vi_VN",
       "source": "https://tutien.pro",
-      "icon": "https://raw.githubusercontent.com/xuantruongdang295-lab/vbook/main/plugin.png",
+      "icon": "https://raw.githubusercontent.com/xuantruongdang295-lab/vbook-extensions/master/tutien/icon.png",
       "description": "Đọc Truyện trên trang tutien.pro"
     }
   ]
